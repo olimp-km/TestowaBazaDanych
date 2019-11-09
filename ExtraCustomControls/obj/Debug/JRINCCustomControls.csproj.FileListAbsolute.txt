@@ -1,0 +1,6 @@
+C:\My Program Files\Projects\Samples3\JRINC_currencyTextBox\JRINCCustomControls\bin\Debug\JRINCCustomControls.XML
+C:\My Program Files\Projects\Samples3\JRINC_currencyTextBox\JRINCCustomControls\bin\Debug\JRINCCustomControls.dll
+C:\My Program Files\Projects\Samples3\JRINC_currencyTextBox\JRINCCustomControls\bin\Debug\JRINCCustomControls.pdb
+C:\My Program Files\Projects\Samples3\JRINC_currencyTextBox\JRINCCustomControls\obj\Debug\JRINCCustomControls.csprojResolveAssemblyReference.cache
+C:\My Program Files\Projects\Samples3\JRINC_currencyTextBox\JRINCCustomControls\obj\Debug\JRINCCustomControls.dll
+C:\My Program Files\Projects\Samples3\JRINC_currencyTextBox\JRINCCustomControls\obj\Debug\JRINCCustomControls.pdb

@@ -1,0 +1,4 @@
+C:\My Program Files\Projects\dbReport\dbtest\ExtraCustomControls\bin\Release\ExtraCustomControls.dll
+C:\My Program Files\Projects\dbReport\dbtest\ExtraCustomControls\bin\Release\ExtraCustomControls.pdb
+C:\My Program Files\Projects\dbReport\dbtest\ExtraCustomControls\obj\Release\ExtraCustomControls.dll
+C:\My Program Files\Projects\dbReport\dbtest\ExtraCustomControls\obj\Release\ExtraCustomControls.pdb

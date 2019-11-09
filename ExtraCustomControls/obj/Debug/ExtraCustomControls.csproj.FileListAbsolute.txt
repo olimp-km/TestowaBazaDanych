@@ -1,0 +1,41 @@
+C:\My Program Files\Projects\Samples3\JRINC_currencyTextBox\JRINCCustomControls\bin\Debug\ExtraCustomControls.xml
+C:\My Program Files\Projects\Samples3\JRINC_currencyTextBox\JRINCCustomControls\bin\Debug\ExtraCustomControls.dll
+C:\My Program Files\Projects\Samples3\JRINC_currencyTextBox\JRINCCustomControls\bin\Debug\ExtraCustomControls.pdb
+C:\My Program Files\Projects\Samples3\JRINC_currencyTextBox\JRINCCustomControls\obj\Debug\ExtraCustomControls.dll
+C:\My Program Files\Projects\Samples3\JRINC_currencyTextBox\JRINCCustomControls\obj\Debug\ExtraCustomControls.pdb
+C:\My Program Files\Projects\Samples3\JRINC_currencyTextBox\ExtraCustomControls\bin\Debug\ExtraCustomControls.xml
+C:\My Program Files\Projects\Samples3\JRINC_currencyTextBox\ExtraCustomControls\bin\Debug\ExtraCustomControls.dll
+C:\My Program Files\Projects\Samples3\JRINC_currencyTextBox\ExtraCustomControls\bin\Debug\ExtraCustomControls.pdb
+C:\My Program Files\Projects\Samples3\JRINC_currencyTextBox\ExtraCustomControls\obj\Debug\ExtraCustomControls.dll
+C:\My Program Files\Projects\Samples3\JRINC_currencyTextBox\ExtraCustomControls\obj\Debug\ExtraCustomControls.pdb
+C:\My Program Files\Projects\Samples3\JRINC_currencyTextBox\ExtraCustomControls\obj\Debug\ExtraCustomControls.csprojResolveAssemblyReference.cache
+C:\My Program Files\Projects\dbtest2\dbtest\ExtraCustomControls\bin\Debug\ExtraCustomControls.xml
+C:\My Program Files\Projects\dbtest2\dbtest\ExtraCustomControls\bin\Debug\ExtraCustomControls.dll
+C:\My Program Files\Projects\dbtest2\dbtest\ExtraCustomControls\bin\Debug\ExtraCustomControls.pdb
+C:\My Program Files\Projects\dbtest2\dbtest\ExtraCustomControls\obj\Debug\ExtraCustomControls.dll
+C:\My Program Files\Projects\dbtest2\dbtest\ExtraCustomControls\obj\Debug\ExtraCustomControls.pdb
+D:\!projekty\C#\dbtest2\dbtest\ExtraCustomControls\bin\Debug\ExtraCustomControls.dll
+D:\!projekty\C#\dbtest2\dbtest\ExtraCustomControls\bin\Debug\ExtraCustomControls.pdb
+D:\!projekty\C#\dbtest2\dbtest\ExtraCustomControls\obj\Debug\ResolveAssemblyReference.cache
+D:\!projekty\C#\dbtest2\dbtest\ExtraCustomControls\obj\Debug\ExtraCustomControls.dll
+D:\!projekty\C#\dbtest2\dbtest\ExtraCustomControls\obj\Debug\ExtraCustomControls.pdb
+C:\My Program Files\Projects\dbtest2\dbtest\ExtraCustomControls\obj\Debug\ExtraCustomControls.csprojResolveAssemblyReference.cache
+C:\My Program Files\Projects\DataBaseReport\dbtest\ExtraCustomControls\bin\Debug\ExtraCustomControls.xml
+C:\My Program Files\Projects\DataBaseReport\dbtest\ExtraCustomControls\bin\Debug\ExtraCustomControls.dll
+C:\My Program Files\Projects\DataBaseReport\dbtest\ExtraCustomControls\bin\Debug\ExtraCustomControls.pdb
+C:\My Program Files\Projects\DataBaseReport\dbtest\ExtraCustomControls\obj\Debug\ExtraCustomControls.csprojResolveAssemblyReference.cache
+C:\My Program Files\Projects\DataBaseReport\dbtest\ExtraCustomControls\obj\Debug\ExtraCustomControls.dll
+C:\My Program Files\Projects\DataBaseReport\dbtest\ExtraCustomControls\obj\Debug\ExtraCustomControls.pdb
+C:\My Program Files\Projects\dbReport\dbtest\ExtraCustomControls\bin\Debug\ExtraCustomControls.xml
+C:\My Program Files\Projects\dbReport\dbtest\ExtraCustomControls\bin\Debug\ExtraCustomControls.dll
+C:\My Program Files\Projects\dbReport\dbtest\ExtraCustomControls\bin\Debug\ExtraCustomControls.pdb
+C:\My Program Files\Projects\dbReport\dbtest\ExtraCustomControls\obj\Debug\ExtraCustomControls.csprojResolveAssemblyReference.cache
+C:\My Program Files\Projects\dbReport\dbtest\ExtraCustomControls\obj\Debug\ExtraCustomControls.dll
+C:\My Program Files\Projects\dbReport\dbtest\ExtraCustomControls\obj\Debug\ExtraCustomControls.pdb
+D:\- Projekty zakonczone\C#\Orange\dbReport\dbtest\ExtraCustomControls\bin\Debug\ExtraCustomControls.xml
+D:\- Projekty zakonczone\C#\Orange\dbReport\dbtest\ExtraCustomControls\bin\Debug\ExtraCustomControls.dll
+D:\- Projekty zakonczone\C#\Orange\dbReport\dbtest\ExtraCustomControls\bin\Debug\ExtraCustomControls.pdb
+D:\- Projekty zakonczone\C#\Orange\dbReport\dbtest\ExtraCustomControls\obj\Debug\ExtraCustomControls.csprojAssemblyReference.cache
+D:\- Projekty zakonczone\C#\Orange\dbReport\dbtest\ExtraCustomControls\obj\Debug\ExtraCustomControls.csproj.CoreCompileInputs.cache
+D:\- Projekty zakonczone\C#\Orange\dbReport\dbtest\ExtraCustomControls\obj\Debug\ExtraCustomControls.dll
+D:\- Projekty zakonczone\C#\Orange\dbReport\dbtest\ExtraCustomControls\obj\Debug\ExtraCustomControls.pdb

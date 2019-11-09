@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ExtraCustomControls</name>
+    </assembly>
+    <members>
+        <member name="M:ExtraCustomControls.currencyTextBox.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:ExtraCustomControls.currencyTextBox.#ctor(System.ComponentModel.IContainer)">
+            <summary>
+            opis ....
+            </summary>
+            <param name="container"></param>
+        </member>
+        <member name="P:ExtraCustomControls.currencyTextBox.ThousandsSeparator">
+            <summary>
+            separator tysięczny
+            </summary>
+        </member>
+        <member name="P:ExtraCustomControls.currencyTextBox.DecimalsSeparator">
+            <summary>
+            separator części całkowitej i dziesiętnej
+            </summary>
+        </member>
+        <member name="P:ExtraCustomControls.currencyTextBox.DecimalPlaces">
+            <summary>
+            ilość miejsc po przecinku
+            </summary>
+        </member>
+        <member name="P:ExtraCustomControls.currencyTextBox.ValueDouble">
+            <summary>
+            wartość
+            </summary>
+        </member>
+        <member name="M:ExtraCustomControls.currencyTextBox.OnGotFocus(System.EventArgs)">
+            <summary>
+            przy uzyskaniu aktywności
+            </summary>
+        </member>
+        <member name="M:ExtraCustomControls.currencyTextBox.OnLostFocus(System.EventArgs)">
+            <summary>
+            przy utracie aktywności
+            </summary>
+        </member>
+        <member name="M:ExtraCustomControls.currencyTextBox.OnKeyPress(System.Windows.Forms.KeyPressEventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="M:ExtraCustomControls.currencyTextBox.OnTextChanged(System.EventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="args"></param>
+        </member>
+        <member name="F:ExtraCustomControls.currencyTextBox.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ExtraCustomControls.currencyTextBox.Dispose(System.Boolean)">
+            <summary> 
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ExtraCustomControls.currencyTextBox.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:ExtraCustomControls.DateTimePicker">
+            <summary>
+            Summary description for DateTimePicker.
+            </summary>
+        </member>
+        <member name="M:ExtraCustomControls.DateTimePicker.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:ExtraCustomControls.DateTimePicker.ValueDate">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:ExtraCustomControls.DateTimePicker.OnCloseUp(System.EventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="eventargs"></param>
+        </member>
+        <member name="M:ExtraCustomControls.DateTimePicker.OnKeyDown(System.Windows.Forms.KeyEventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="e"></param>
+        </member>
+    </members>
+</doc>
